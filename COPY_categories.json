@@ -1,0 +1,574 @@
+[
+  {
+    "cat": "https://www.zarahome.com/es/en/bedroom/bed-linen/basic-sheets-c1020331508.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bedroom/bed-linen/duvet-covers-c1020260010.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bedroom/bed-linen/flat-sheets-c1020116862.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bedroom/bed-linen/fitted-sheets-c1020116859.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bedroom/bed-linen/pillowcases-c1020116860.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bedroom/bed-linen/quilts-c1020116653.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bedroom/bed-linen/bedspreads-c1020116654.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bedroom/bed-linen/bed-blankets-c1020297759.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bedroom/bed-linen/protectors-c1020116663.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bedroom/bed-linen/valances-c1020116789.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bedroom/fillings/see-all-c1020260026.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bedroom/fillings/duvets-c1020260024.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bedroom/fillings/pillows-c1020260025.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bedroom/fillings/cushion-fillings-c1020260023.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bedroom/fillings/toppers-and-protectors-c1020276809.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bedroom/headboards-c1020116659.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bedroom/rugs-c1020260014.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bedroom/furniture-c1020260013.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bedroom/blankets-c1020116655.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bedroom/cushions-c1020116658.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bedroom/mirrors-c1020260015.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bedroom/lighting-c1020260012.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bedroom/curtains-c1020341506.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bedroom/decoration/vases-c1020260018.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bedroom/decoration/photo-frames-c1020260016.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bedroom/decoration/boxes-c1020260017.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bedroom/decoration/candles-c1020260019.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bedroom/decoration/candlesticks-and-tealight-holders-c1020260022.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bedroom/decoration/decor-accessories-c1020260021.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bedroom/decoration/door-knobs-c1020260020.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/clothing-%26-footwear/clothing/woman-c1020330042.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/clothing-%26-footwear/clothing/man-c1020330041.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/clothing-%26-footwear/embroidered-c1020341003.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/clothing-%26-footwear/footwear/woman-c1020330044.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/clothing-%26-footwear/footwear/man-c1020330043.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/clothing-%26-footwear/accessories/see-all-c1020330049.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/clothing-%26-footwear/accessories/bags-c1020330048.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/clothing-%26-footwear/accessories/toiletry-bags-c1020330047.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/clothing-%26-footwear/accessories/accessories-c1020330045.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/clothing-%26-footwear/accessories/hangers-c1020330046.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/clothing-%26-footwear/laundry-care-c1020330055.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/living-room/stationery/collection-c1020338501.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/living-room/stationery/personalizaci%C3%B3n-c1020339001.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kitchen/tableware-and-utensils-c1020261506.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kitchen/small-household-appliances-c1020261508.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kitchen/textiles-and-accessories/see-all-c1020281008.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kitchen/textiles-and-accessories/textiles-c1020281007.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kitchen/textiles-and-accessories/accessories-c1020281006.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kitchen/cookery-books-c1020261509.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kitchen/coffee-c1020269762.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kitchen/cleaning-c1020261504.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kitchen/furniture-and-lamps-c1020329534.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/dining/tableware/complete-tableware-c1020261518.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/dining/tableware/serving-dishes-c1020261519.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/dining/tableware/bowls-c1020261531.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/dining/tableware/mugs-c1020343027.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/dining/tableware/charger-plates-c1020261530.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/dining/tableware/side-plates-c1020261532.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/dining/glassware/tumblers-c1020261527.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/dining/glassware/stemmed-glasses-c1020261528.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/dining/glassware/jugs-c1020261529.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/dining/glassware/glassware-set-c1020261526.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/dining/cutlery/see-all-c1020348001.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/dining/cutlery/cutlery-by-pieces-c1020348003.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/dining/cutlery/cutlery-at-the-till-c1020348002.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/dining/cutlery/serving-cutlery-c1020348004.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/dining/table-linens/tablecloths-c1020261515.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/dining/table-linens/napkins-c1020261535.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/dining/table-linens/placemats-c1020261517.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/dining/table-linens/table-runners-c1020261516.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/dining/trays-c1020261525.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/dining/table-accessories/coasters-c1020261524.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/dining/table-accessories/napkin-rings-c1020261523.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/dining/table-accessories/trivets-c1020261533.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/dining/table-accessories/cruets-and-salt-shakers-c1020278322.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/dining/table-accessories/other-accessories-c1020261543.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/dining/furniture-and-lamps-c1020277002.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bathroom/towels-c1020116646.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bathroom/basic-towels-c1020331506.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bathroom/bath-mats-c1020116647.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bathroom/bathrobes-and-slippers-c1020116785.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bathroom/bathroom-accessories-c1020116648.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bathroom/bathroom-curtains-c1020278317.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bathroom/furniture-and-baskets-c1020116649.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bathroom/embroidered-c1020281033.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bathroom/body-care/body-care-c1020343530.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bathroom/body-care/collection-c1020281001.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/bathroom/spa-collection-c1020283545.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/fragrances/products/reed-diffusers-c1020116811.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/fragrances/products/candles-c1020116810.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/fragrances/products/home-spray-c1020116814.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/fragrances/products/linen-spray-c1020116815.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/fragrances/products/soap-c1020116821.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/fragrances/products/hand-and-body-lotion-c1020116816.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/fragrances/products/scented-cards-c1020116818.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/fragrances/products/car-air-freshener-c1020116817.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/fragrances/products/hand-gel-c1020295017.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/new-in-c1020273163.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/bedroom/duvet-covers-c1020264565.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/bedroom/flat-sheets-c1020264566.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/bedroom/fitted-sheets-c1020264567.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/bedroom/pillowcases-c1020264568.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/bedroom/fillings-c1020330571.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/bedroom/quilts-and-bedspreads-c1020264564.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/bedroom/blankets-c1020264572.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/bedroom/cushions-c1020264573.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/bedroom/cots-and-moses-baskets-c1020264582.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/bedroom/rugs-c1020264576.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/bedroom/furniture-c1020264583.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/bedroom/curtains-c1020264578.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/bedroom/decoration-c1020264575.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/furniture-and-decoration/furniture-c1020264587.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/furniture-and-decoration/decor-c1020264586.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/furniture-and-decoration/rugs-c1020264588.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/furniture-and-decoration/lighting-c1020264589.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/furniture-and-decoration/curtains-c1020278323.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/play-and-tidy-up/soft-toys-and-dolls-c1020116767.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/play-and-tidy-up/books-and-stationery-c1020291028.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/play-and-tidy-up/games-c1020265147.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/play-and-tidy-up/costumes-c1020278324.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/play-and-tidy-up/baskets-and-boxes-c1020116716.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/play-and-tidy-up/hangers-%26-organisers-c1020116766.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/play-and-tidy-up/pyjama-party-c1020329547.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/mealtime/tableware-and-cutlery-c1020116915.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/mealtime/tumblers-and-mugs-c1020116914.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/mealtime/placemats-and-trays-c1020116916.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/mealtime/bibs-and-bags-c1020116727.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/mealtime/bakery-c1020341508.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/bathroom/towels-c1020116708.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/bathroom/bathrobes-and-hooded-towels-c1020116709.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/bathroom/bath-mats-c1020116827.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/bathroom/bathroom-accessories-c1020116710.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/off-for-a-stroll-c1020116745.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/clothing-%26-footwear/view-all-c1020288518.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/clothing-%26-footwear/newborn-0---12-months-c1020116972.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/clothing-%26-footwear/baby-6---24-months-c1020116724.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/clothing-%26-footwear/kids-2---9-years-c1020116725.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/clothing-%26-footwear/footwear-and-accessories-c1020116879.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/kids/fragrances-c1020278502.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/lifestyle-c1020348007.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/picnic-collection-c1020346001.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/pets-collection-c1020329618.html",
+    "cat_id": 1
+  },
+  {
+    "cat": "https://www.zarahome.com/es/en/caring-for-clothing-and-footwear-c1020333516.html",
+    "cat_id": 1
+  }
+]
