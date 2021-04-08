@@ -278,8 +278,8 @@ class GetProductLinks:
             WriteProductsJson(product_dicts)
             print(f"{get_current_time()} Written.", flush=True)
             print("--- --- ---", flush=True)
-        except TimeoutException:
-            pass
+        except WebDriverException as webdriver_exception:
+            print(webdriver_exception)
 
         self.dicts = product_dicts
 
