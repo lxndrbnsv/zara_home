@@ -260,22 +260,26 @@ class GetProductLinks:
             f"{get_current_time()} Collecting products in category: {category_url}",
             flush=True,
         )
-        browser.get(category_url)
-
-        links = get_links()
-
-        browser.quit()
-
         product_dicts = []
+        try:
+            browser.get(category_url)
 
-        for link in links:
-            product_dicts.append(
-                dict(product_link=link, cat_url=category_url, cat_id=category["cat_id"])
-            )
+            links = get_links()
 
-        WriteProductsJson(product_dicts)
-        print(f"{get_current_time()} Written.", flush=True)
-        print("--- --- ---", flush=True)
+            browser.quit()
+
+            product_dicts = []
+
+            for link in links:
+                product_dicts.append(
+                    dict(product_link=link, cat_url=category_url, cat_id=category["cat_id"])
+                )
+
+            WriteProductsJson(product_dicts)
+            print(f"{get_current_time()} Written.", flush=True)
+            print("--- --- ---", flush=True)
+        except TimeoutException:
+            pass
 
         self.dicts = product_dicts
 

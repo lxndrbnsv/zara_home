@@ -4,3 +4,4 @@ webdriver/
 venv/
 *~
 *#
+*.log
