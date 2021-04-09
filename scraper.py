@@ -481,6 +481,10 @@ class GetProductData:
 
         if colors() is True:
             try:
+                try:
+                    browser.find_element_by_id("onetrust-button-group-parent").click()
+                except Exception as e:
+                    print(e)
 
                 def get_colors_list():
                     color_container = browser.find_element_by_class_name(
@@ -529,6 +533,10 @@ class GetProductData:
 
         else:
             try:
+                try:
+                    browser.find_element_by_id("onetrust-button-group-parent").click()
+                except Exception as e:
+                    print(e)
                 ref = generate_product_ref()
                 name = get_name()
                 art = get_art()
