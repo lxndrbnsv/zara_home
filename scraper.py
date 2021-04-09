@@ -280,6 +280,8 @@ class GetProductLinks:
             print("--- --- ---", flush=True)
         except WebDriverException as webdriver_exception:
             print(webdriver_exception)
+        except Exception as e:
+            print(e)
 
         self.dicts = product_dicts
 
