@@ -530,6 +530,8 @@ class GetProductData:
             except WebDriverException as webdriver_exception:
                 traceback.print_exc()
                 print(get_current_time(), webdriver_exception, flush=True)
+            except Exception as e:
+                print(e)
 
         else:
             try:
@@ -562,6 +564,8 @@ class GetProductData:
 
             except WebDriverException as webdriver_exception:
                 print(get_current_time(), webdriver_exception, flush=True)
+            except Exception as e:
+                print(e)
 
         browser.quit()
         print(f"{get_current_time()} Product data has been collected!", flush=True)
